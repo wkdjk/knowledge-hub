@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Velvet Knowledge Hub — Korean Deer Velvet Market</title>
+<style>
+  :root {
+    --page:           #f9f9f7;
+    --surface:        #fcfcfb;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --border:         rgba(11, 11, 11, 0.10);
+    --accent:         #2a78d6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --page:           #0d0d0d;
+      --surface:        #1a1a19;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --border:         rgba(255, 255, 255, 0.10);
+      --accent:         #3987e5;
+    }
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--page);
+    color: var(--text-primary);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 20px 64px;
+  }
+
+  header.site {
+    padding: 40px 0 28px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 36px;
+  }
+  header.site h1 {
+    font-size: 1.5rem;
+    font-weight: 650;
+    letter-spacing: -0.01em;
+  }
+  header.site p {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    margin-top: 4px;
+  }
+
+  .period {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 10px;
+  }
+
+  .summary {
+    font-size: 1.06rem;
+    color: var(--text-primary);
+    max-width: 68ch;
+  }
+
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: 16px;
+    margin-top: 32px;
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 22px;
+  }
+  .card .label {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+  }
+  .card .value {
+    font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin-top: 6px;
+    color: var(--text-primary);
+  }
+  .card .value .unit {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    margin-left: 4px;
+  }
+  .card .delta {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-top: 8px;
+  }
+  .card .delta .note {
+    color: var(--text-muted);
+  }
+
+  .load-error {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 22px;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-top: 32px;
+  }
+
+  footer.site {
+    margin-top: 48px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+    font-size: 0.82rem;
+    color: var(--text-muted);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="site">
+    <h1>Velvet Knowledge Hub</h1>
+    <p>A five-minute scan of the Korean deer velvet market, for New Zealand deer industry partners.</p>
+  </header>
+
+  <main>
+    <section id="overview" aria-labelledby="overview-heading">
+      <span class="period" id="period"></span>
+      <h2 id="overview-heading" class="sr-only" style="position:absolute;left:-9999px;">Market overview</h2>
+      <p class="summary" id="summary-text"></p>
+      <div class="cards" id="cards"></div>
+    </section>
+  </main>
+
+  <footer class="site">
+    <p>Figures shown are placeholder sample data until the first quarterly data files are loaded.</p>
+  </footer>
+
+</div>
+
+<script>
+(function () {
+  function esc(s) {
+    return s.replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  // Minimal CSV parser: handles quoted fields containing commas.
+  function parseCSV(text) {
+    var rows = [];
+    text.split(/\r?\n/).forEach(function (line) {
+      if (!line.trim()) return;
+      var fields = [], cur = "", inQ = false;
+      for (var i = 0; i < line.length; i++) {
+        var ch = line[i];
+        if (inQ) {
+          if (ch === '"' && line[i + 1] === '"') { cur += '"'; i++; }
+          else if (ch === '"') { inQ = false; }
+          else { cur += ch; }
+        } else {
+          if (ch === '"') { inQ = true; }
+          else if (ch === ",") { fields.push(cur); cur = ""; }
+          else { cur += ch; }
+        }
+      }
+      fields.push(cur);
+      rows.push(fields.map(function (f) { return f.trim(); }));
+    });
+    return rows;
+  }
+
+  function showError() {
+    var main = document.querySelector("main");
+    main.innerHTML =
+      '<div class="load-error">Data files could not be loaded. ' +
+      'Please check that <code>data/summary.txt</code> and <code>data/cards.csv</code> exist.</div>';
+  }
+
+  Promise.all([
+    fetch("data/summary.txt").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
+    fetch("data/cards.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); })
+  ]).then(function (res) {
+    var lines = res[0].split(/\r?\n/).filter(function (l) { return l.trim(); });
+    document.getElementById("period").textContent = lines[0] || "";
+    document.getElementById("summary-text").textContent = lines.slice(1).join(" ");
+
+    var rows = parseCSV(res[1]);
+    var cards = rows.slice(1); // skip header row
+    document.getElementById("cards").innerHTML = cards.map(function (c) {
+      var label = c[0] || "", value = c[1] || "", unit = c[2] || "";
+      var delta = c[3] || "", note = c[4] || "";
+      var arrow = delta.charAt(0) === "+" ? "▴ " : delta.charAt(0) === "-" ? "▾ " : "";
+      return (
+        '<div class="card">' +
+          '<div class="label">' + esc(label) + "</div>" +
+          '<div class="value">' + esc(value) +
+            (unit ? '<span class="unit">' + esc(unit) + "</span>" : "") +
+          "</div>" +
+          (delta
+            ? '<div class="delta">' + arrow + esc(delta) +
+              (note ? ' <span class="note">' + esc(note) + "</span>" : "") +
+              "</div>"
+            : "") +
+        "</div>"
+      );
+    }).join("");
+  }).catch(showError);
+})();
+</script>
+</body>
+</html>
