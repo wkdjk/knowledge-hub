@@ -223,6 +223,12 @@
     color: var(--text-muted);
     margin-top: 16px;
   }
+  .download-link {
+    margin-top: 10px;
+    font-size: 0.82rem;
+  }
+  .download-link a { color: var(--accent); text-decoration: none; }
+  .download-link a:hover { text-decoration: underline; }
 
   .load-error {
     background: var(--surface);
@@ -275,6 +281,23 @@
         <summary>View data as table</summary>
         <div class="scroll"><table id="imports-table"></table></div>
       </details>
+      <p class="download-link"><a href="data/imports.csv" download>Download data (CSV)</a></p>
+    </section>
+
+    <section id="nz-exports" class="block" aria-labelledby="nz-exports-heading">
+      <div class="chart-head">
+        <h2 id="nz-exports-heading">NZ velvet exports by year</h2>
+      </div>
+      <div class="chart-card">
+        <svg id="nz-exports-chart" viewBox="0 0 720 320" role="img" aria-label="Bar chart of New Zealand deer velvet export volume by year, with trend line"></svg>
+        <div class="chart-tooltip" id="nz-exports-tooltip"></div>
+      </div>
+      <p class="chart-note" id="nz-exports-note"></p>
+      <details class="data-table">
+        <summary>View data as table</summary>
+        <div class="scroll"><table id="nz-exports-table"></table></div>
+      </details>
+      <p class="download-link"><a href="data/nz-exports.csv" download>Download data (CSV)</a></p>
     </section>
 
     <section id="news" class="block" aria-labelledby="news-heading">
@@ -282,6 +305,7 @@
       <p class="chart-note" style="margin-top:6px;">Selected articles from the last 90 days.</p>
       <ul class="news-list" id="news-list"></ul>
       <p class="news-empty" id="news-empty" hidden>No articles in the last 90 days.</p>
+      <p class="download-link"><a href="data/news.csv" download>Download data (CSV)</a></p>
     </section>
 
     <section id="reports" class="block" aria-labelledby="reports-heading">
@@ -293,6 +317,7 @@
     <section id="references" class="block" aria-labelledby="references-heading">
       <h2 id="references-heading">Sources &amp; references</h2>
       <ul class="news-list" id="references-list"></ul>
+      <p class="download-link"><a href="data/references.csv" download>Download data (CSV)</a></p>
     </section>
   </main>
 
@@ -350,20 +375,9 @@
            getComputedStyle(document.body).getPropertyValue(name).trim();
   }
 
-  function renderChart() {
-    var svg = document.getElementById("imports-chart");
-    var tooltip = document.getElementById("imports-tooltip");
-    var country = document.getElementById("country-filter").value;
-
-    // Aggregate tonnes per year for the selected country (or all).
-    var byYear = {};
-    importRows.forEach(function (r) {
-      if (country && r.country !== country) return;
-      byYear[r.year] = (byYear[r.year] || 0) + r.tonnes;
-    });
-    var years = Object.keys(byYear).map(Number).sort(function (a, b) { return a - b; });
+  // Shared bar-with-trend chart renderer used by both trade sections.
+  function drawChart(svg, tooltip, tableId, years, values, seriesName, unit) {
     if (!years.length) { svg.innerHTML = ""; return; }
-    var values = years.map(function (y) { return byYear[y]; });
 
     // Size the drawing to the rendered width so text keeps its true size on mobile.
     var W = Math.max(320, Math.round(svg.getBoundingClientRect().width) || 720);
@@ -446,7 +460,7 @@
         var card = svg.closest(".chart-card");
         var svgRect = svg.getBoundingClientRect(), cardRect = card.getBoundingClientRect();
         var scale = svgRect.width / W;
-        tooltip.innerHTML = "<strong>" + years[i] + "</strong> · " + values[i].toLocaleString() + " tonnes";
+        tooltip.innerHTML = "<strong>" + years[i] + "</strong> · " + values[i].toLocaleString() + " " + esc(unit);
         tooltip.style.left = (svgRect.left - cardRect.left + x(i) * scale) + "px";
         tooltip.style.top = (svgRect.top - cardRect.top + y(values[i]) * scale) + "px";
         tooltip.style.opacity = "1";
@@ -455,11 +469,57 @@
     });
 
     // Table view
-    var table = document.getElementById("imports-table");
-    table.innerHTML = "<tr><th>Year</th><th>" + esc(country || "All countries") + " (tonnes)</th></tr>" +
+    var table = document.getElementById(tableId);
+    table.innerHTML = "<tr><th>Year</th><th>" + esc(seriesName) + " (" + esc(unit) + ")</th></tr>" +
       years.map(function (yr, i) {
         return "<tr><td>" + yr + "</td><td>" + values[i].toLocaleString() + "</td></tr>";
       }).join("");
+  }
+
+  function renderImportsChart() {
+    var country = document.getElementById("country-filter").value;
+    var byYear = {};
+    importRows.forEach(function (r) {
+      if (country && r.country !== country) return;
+      byYear[r.year] = (byYear[r.year] || 0) + r.tonnes;
+    });
+    var years = Object.keys(byYear).map(Number).sort(function (a, b) { return a - b; });
+    drawChart(
+      document.getElementById("imports-chart"),
+      document.getElementById("imports-tooltip"),
+      "imports-table",
+      years,
+      years.map(function (y) { return byYear[y]; }),
+      country || "All countries",
+      "tonnes"
+    );
+  }
+
+  var nzExportRows = []; // { year, tonnes }
+
+  function renderNzChart() {
+    drawChart(
+      document.getElementById("nz-exports-chart"),
+      document.getElementById("nz-exports-tooltip"),
+      "nz-exports-table",
+      nzExportRows.map(function (r) { return r.year; }),
+      nzExportRows.map(function (r) { return r.tonnes; }),
+      "NZ exports",
+      "tonnes"
+    );
+  }
+
+  function renderAllCharts() {
+    renderImportsChart();
+    renderNzChart();
+  }
+
+  function initNzChart(csvText, noteText) {
+    nzExportRows = parseCSV(csvText).slice(1).filter(function (r) { return r.length >= 2; })
+      .map(function (r) { return { year: +r[0], tonnes: +r[1] }; })
+      .filter(function (r) { return r.year && !isNaN(r.tonnes); })
+      .sort(function (a, b) { return a.year - b.year; });
+    document.getElementById("nz-exports-note").textContent = noteText.replace(/\r?\n/g, " ").trim();
   }
 
   function initChart(csvText, noteText) {
@@ -476,18 +536,17 @@
       o.value = c; o.textContent = c;
       sel.appendChild(o);
     });
-    sel.addEventListener("change", renderChart);
+    sel.addEventListener("change", renderImportsChart);
 
     document.getElementById("imports-note").textContent = noteText.replace(/\r?\n/g, " ").trim();
 
-    renderChart();
     if (window.matchMedia) {
-      window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", renderChart);
+      window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", renderAllCharts);
     }
     var resizeTimer;
     window.addEventListener("resize", function () {
       clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(renderChart, 150);
+      resizeTimer = setTimeout(renderAllCharts, 150);
     });
   }
 
@@ -555,7 +614,9 @@
     fetch("data/imports-notes.txt").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
     fetch("data/news.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
     fetch("data/reports.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
-    fetch("data/references.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); })
+    fetch("data/references.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
+    fetch("data/nz-exports.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
+    fetch("data/nz-exports-notes.txt").then(function (r) { if (!r.ok) throw 0; return r.text(); })
   ]).then(function (res) {
     var lines = res[0].split(/\r?\n/).filter(function (l) { return l.trim(); });
     document.getElementById("period").textContent = lines[0] || "";
@@ -586,6 +647,8 @@
     initNews(res[4]);
     initReports(res[5]);
     initReferences(res[6]);
+    initNzChart(res[7], res[8]);
+    renderAllCharts();
   }).catch(showError);
 })();
 </script>
