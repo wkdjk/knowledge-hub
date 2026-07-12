@@ -283,6 +283,17 @@
       <ul class="news-list" id="news-list"></ul>
       <p class="news-empty" id="news-empty" hidden>No articles in the last 90 days.</p>
     </section>
+
+    <section id="reports" class="block" aria-labelledby="reports-heading">
+      <h2 id="reports-heading">Quarterly report archive</h2>
+      <p class="chart-note" style="margin-top:6px;">Full quarterly reports, available for download as PDF.</p>
+      <ul class="news-list" id="reports-list"></ul>
+    </section>
+
+    <section id="references" class="block" aria-labelledby="references-heading">
+      <h2 id="references-heading">Sources &amp; references</h2>
+      <ul class="news-list" id="references-list"></ul>
+    </section>
   </main>
 
   <footer class="site">
@@ -510,12 +521,41 @@
     }).join("");
   }
 
+  // ---------- Screen 4: quarterly report archive ----------
+
+  function initReports(csvText) {
+    var rows = parseCSV(csvText).slice(1).filter(function (r) { return r.length >= 3; });
+    document.getElementById("reports-list").innerHTML = rows.map(function (r) {
+      var quarter = r[0], title = r[1], file = r[2];
+      return "<li>" +
+        '<div class="meta">' + esc(quarter) + "</div>" +
+        '<a class="title" href="' + esc(file) + '" download>' + esc(title) + "</a>" +
+        '<div class="one-liner">PDF download</div>' +
+      "</li>";
+    }).join("");
+  }
+
+  // ---------- Screen 5: sources & references ----------
+
+  function initReferences(csvText) {
+    var rows = parseCSV(csvText).slice(1).filter(function (r) { return r.length >= 2; });
+    document.getElementById("references-list").innerHTML = rows.map(function (r) {
+      var title = r[0], url = r[1], note = r[2] || "";
+      return "<li>" +
+        '<a class="title" href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(title) + "</a>" +
+        (note ? '<div class="one-liner">' + esc(note) + "</div>" : "") +
+      "</li>";
+    }).join("");
+  }
+
   Promise.all([
     fetch("data/summary.txt").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
     fetch("data/cards.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
     fetch("data/imports.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
     fetch("data/imports-notes.txt").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
-    fetch("data/news.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); })
+    fetch("data/news.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
+    fetch("data/reports.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); }),
+    fetch("data/references.csv").then(function (r) { if (!r.ok) throw 0; return r.text(); })
   ]).then(function (res) {
     var lines = res[0].split(/\r?\n/).filter(function (l) { return l.trim(); });
     document.getElementById("period").textContent = lines[0] || "";
@@ -544,6 +584,8 @@
 
     initChart(res[2], res[3]);
     initNews(res[4]);
+    initReports(res[5]);
+    initReferences(res[6]);
   }).catch(showError);
 })();
 </script>
