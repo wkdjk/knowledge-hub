@@ -56,7 +56,27 @@
 ※ 제목이나 요약에 쉼표(,)가 들어가면 그 칸 전체를 큰따옴표("...")로 감싸세요.
 엑셀에서 CSV로 저장하면 자동으로 처리됩니다.
 
-## 6. 반영하기 (GitHub 웹에서)
+## 6. `reports.csv` + `reports` 폴더 — 분기 보고서 아카이브
+
+1. PDF 파일을 저장소 최상위의 `reports` 폴더에 업로드합니다
+   (GitHub 웹: `reports` 폴더 → **Add file → Upload files**)
+2. `data/reports.csv`에 한 줄 추가합니다
+
+| 열 | 의미 | 예시 |
+|---|---|---|
+| `quarter` | 분기 표시 | 2026 Q3 |
+| `title` | 보고서 제목 (사이트에 표시됨) | Korean Velvet Market Quarterly Report — Q3 2026 |
+| `file` | PDF 경로 (`reports/파일명.pdf`) | reports/2026-Q3.pdf |
+
+## 7. `references.csv` — 참고자료 링크
+
+| 열 | 의미 | 예시 |
+|---|---|---|
+| `title` | 출처 이름 | Korea Customs Service |
+| `url` | 링크 | https://... |
+| `note` | 한 줄 설명 (없으면 비워둠) | Official import statistics |
+
+## 8. 반영하기 (GitHub 웹에서)
 
 1. GitHub 저장소의 `data` 폴더로 이동
 2. 바꿀 파일 클릭 → 오른쪽 연필(✏️) 아이콘 클릭
