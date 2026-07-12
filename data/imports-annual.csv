@@ -1,0 +1,172 @@
+year,country,form,kg,coverage
+2013,Australia,dried,56,full
+2013,Australia,frozen,6.2,full
+2013,China,dried,54942,full
+2013,China,frozen,10.3,full
+2013,Hong Kong,dried,11322,full
+2013,Japan,frozen,1.4,full
+2013,Kazakhstan,dried,1786,full
+2013,New Zealand,dried,24152,full
+2013,New Zealand,frozen,74725,full
+2013,Others,dried,16,full
+2013,Russia,dried,43140,full
+2013,Russia,frozen,1.3,full
+2013,Thailand,frozen,23,full
+2013,USA,dried,20,full
+2013,USA,frozen,0.1,full
+2014,Australia,dried,55,full
+2014,Australia,frozen,16.6,full
+2014,Canada,frozen,0.4,full
+2014,China,dried,78296,full
+2014,China,frozen,5.2,full
+2014,Hong Kong,dried,20976,full
+2014,Japan,frozen,2.6,full
+2014,Kazakhstan,dried,1986,full
+2014,New Zealand,dried,14293,full
+2014,New Zealand,frozen,74298,full
+2014,Others,dried,17,full
+2014,Russia,dried,34369,full
+2014,Singapore,dried,2241,full
+2014,USA,dried,30,full
+2014,USA,frozen,0.8,full
+2015,Australia,dried,25,full
+2015,Australia,frozen,31.1,full
+2015,Canada,frozen,1.3,full
+2015,China,dried,60794,full
+2015,China,frozen,7.8,full
+2015,Hong Kong,dried,14500,full
+2015,Kazakhstan,dried,2035,full
+2015,New Zealand,dried,15803,full
+2015,New Zealand,frozen,74025,full
+2015,Others,dried,7,full
+2015,Russia,dried,44523,full
+2015,USA,dried,11,full
+2015,USA,frozen,1.3,full
+2015,Vietnam,frozen,0.5,full
+2016,Australia,dried,19,full
+2016,Australia,frozen,33,full
+2016,China,dried,68902,full
+2016,China,frozen,21.6,full
+2016,Hong Kong,dried,23115,full
+2016,Japan,frozen,0.7,full
+2016,Kazakhstan,dried,1390,full
+2016,New Zealand,dried,33554,full
+2016,New Zealand,frozen,88922,full
+2016,Others,dried,4,full
+2016,Russia,dried,34275,full
+2016,Russia,frozen,3.2,full
+2016,Singapore,dried,1,full
+2016,USA,dried,12,full
+2016,USA,frozen,4,full
+2017,Argentina,frozen,3.2,full
+2017,Australia,dried,41,full
+2017,Australia,frozen,19.6,full
+2017,China,dried,61972,full
+2017,China,frozen,67.7,full
+2017,Hong Kong,dried,11293,full
+2017,Kazakhstan,dried,1080.6,full
+2017,New Zealand,dried,61815,full
+2017,New Zealand,frozen,64809,full
+2017,Others,dried,1.5,full
+2017,Others,frozen,0.6,full
+2017,Russia,dried,50989,full
+2017,USA,dried,6,full
+2017,USA,frozen,0.2,full
+2018,Argentina,frozen,2.6,full
+2018,Australia,dried,72.9,full
+2018,China,dried,74116.5,full
+2018,China,frozen,6,full
+2018,Hong Kong,dried,15402.4,full
+2018,Japan,frozen,2.7,full
+2018,Kazakhstan,dried,1270.2,full
+2018,New Zealand,dried,78409.8,full
+2018,New Zealand,frozen,81365,full
+2018,Others,dried,3.9,full
+2018,Russia,dried,42131.6,full
+2018,Russia,frozen,3.2,full
+2018,USA,dried,3,full
+2019,Australia,dried,31.9,full
+2019,China,dried,69716.2,full
+2019,China,frozen,10.2,full
+2019,Hong Kong,dried,17827.5,full
+2019,Kazakhstan,dried,701,full
+2019,New Zealand,dried,44534.6,full
+2019,New Zealand,frozen,99113,full
+2019,Others,dried,9.2,full
+2019,Russia,dried,46449.6,full
+2019,Singapore,dried,500.3,full
+2019,Thailand,frozen,1,full
+2019,USA,dried,11.5,full
+2020,Australia,dried,26.6,full
+2020,China,dried,77989.8,full
+2020,Hong Kong,dried,13700.7,full
+2020,Kazakhstan,dried,2354,full
+2020,New Zealand,dried,37810.6,full
+2020,New Zealand,frozen,77477.4,full
+2020,Others,dried,1.6,full
+2020,Russia,dried,54042.4,full
+2020,USA,dried,5.7,full
+2021,Australia,dried,44.9,full
+2021,Australia,frozen,0.5,full
+2021,China,dried,72633.5,full
+2021,China,frozen,1.6,full
+2021,Hong Kong,dried,22372.1,full
+2021,Kazakhstan,dried,1428,full
+2021,New Zealand,dried,24368.7,full
+2021,New Zealand,frozen,91874.1,full
+2021,Others,dried,3.6,full
+2021,Russia,dried,55986.4,full
+2021,USA,dried,4.9,full
+2021,USA,frozen,0.5,full
+2022,Australia,dried,32.3,full
+2022,Australia,frozen,1.4,full
+2022,China,dried,89568.5,full
+2022,Hong Kong,dried,23835,full
+2022,Japan,frozen,4.7,full
+2022,Kazakhstan,dried,2096.8,full
+2022,New Zealand,dried,39655.1,full
+2022,New Zealand,frozen,116584,full
+2022,Russia,dried,43895.9,full
+2022,USA,dried,2.1,full
+2022,USA,frozen,0.8,full
+2023,Australia,dried,16,full
+2023,Australia,frozen,0.2,full
+2023,Canada,frozen,0.4,full
+2023,China,dried,74318,full
+2023,China,frozen,2.6,full
+2023,Hong Kong,dried,12596.6,full
+2023,Kazakhstan,dried,1094.8,full
+2023,New Zealand,dried,47958,full
+2023,New Zealand,frozen,116292,full
+2023,Others,dried,0.1,full
+2023,Russia,dried,29109.3,full
+2023,USA,dried,2.3,full
+2024,Australia,dried,9.8,full
+2024,China,dried,89458.2,full
+2024,China,frozen,443.8,full
+2024,Hong Kong,dried,4346.5,full
+2024,Kazakhstan,dried,413,full
+2024,New Zealand,dried,16883.5,full
+2024,New Zealand,frozen,76938.6,full
+2024,Others,dried,1.4,full
+2024,Russia,dried,39860.7,full
+2024,USA,dried,1.1,full
+2025,Australia,dried,10.6,full
+2025,Australia,frozen,0.1,full
+2025,China,dried,90488.4,full
+2025,China,frozen,1356.5,full
+2025,Hong Kong,dried,3698.6,full
+2025,Kazakhstan,dried,1058,full
+2025,New Zealand,dried,8890.6,full
+2025,New Zealand,frozen,94225.1,full
+2025,Others,dried,0.4,full
+2025,Russia,dried,36440.5,full
+2025,USA,dried,0.6,full
+2026,Australia,dried,1.9,partial
+2026,China,dried,36527.4,partial
+2026,Hong Kong,dried,1800,partial
+2026,New Zealand,dried,3673.9,partial
+2026,New Zealand,frozen,48628.9,partial
+2026,Others,dried,0.4,partial
+2026,Russia,dried,21258.7,partial
+2026,USA,dried,1.8,partial
