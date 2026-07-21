@@ -1,0 +1,488 @@
+﻿Year,Month,Trade,Basis,HS_Code,Product_KR,Product_EN,Country_KR,Country_EN,Quantity_kg,Value_USD1000
+2019,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,21524.0,2961.0
+2019,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,6663.0,459.0
+2019,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,3199.0,800.0
+2019,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2019,1,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,694.0,150.0
+2019,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,15820.0,2116.0
+2019,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,8021.0,555.0
+2019,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1249.0,313.0
+2019,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,중국,China,1.0,0.0
+2019,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2019,2,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,196.0,5.0
+2019,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,23962.0,2978.0
+2019,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,23.0,15.0
+2019,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,400.0,104.0
+2019,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,4.0,2.0
+2019,3,Export,"Korea export customs (FOB, USD1000)",0507901110,전지(全枝),Whole stick,홍콩,Hong Kong,30.0,9.0
+2019,3,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,494.0,234.0
+2019,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,21977.0,3699.0
+2019,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,6319.0,446.0
+2019,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,3973.0,1015.0
+2019,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2019,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,873.0,269.0
+2019,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,20591.0,3990.0
+2019,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,37.0,19.0
+2019,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,374.0,97.0
+2019,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,중국,China,475.0,95.0
+2019,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,6.0,2.0
+2019,5,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,343.0,147.0
+2019,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,3016.0,610.0
+2019,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,14.0,9.0
+2019,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,3179.0,766.0
+2019,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,1.0
+2019,6,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,842.0,224.0
+2019,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,20393.0,2995.0
+2019,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,14.0,9.0
+2019,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1241.0,310.0
+2019,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,4.0,2.0
+2019,7,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,434.0,192.0
+2019,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,6714.0,1558.0
+2019,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,23.0,9.0
+2019,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,920.0,233.0
+2019,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,호주,Australia,2522.0,530.0
+2019,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,2.0
+2019,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,19433.0,2631.0
+2019,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,28.0,11.0
+2019,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,234.0,56.0
+2019,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,0.0
+2019,9,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,282.0,70.0
+2019,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,13769.0,2448.0
+2019,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,18.0,12.0
+2019,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,17361.0,4322.0
+2019,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,140.0,31.0
+2019,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2019,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,10983.0,1356.0
+2019,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,16.0,11.0
+2019,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,13104.0,3244.0
+2019,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,396.0,75.0
+2019,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2019,11,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,374.0,166.0
+2019,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,29682.0,2798.0
+2019,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,17.0,12.0
+2019,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,6137.0,1498.0
+2019,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,165.0,31.0
+2019,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,7.0,2.0
+2019,12,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,246.0,54.0
+2020,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,11579.0,1436.0
+2020,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,70.0,31.0
+2020,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,6677.0,1669.0
+2020,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,중국,China,508.0,104.0
+2020,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,667.0,167.0
+2020,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,호주,Australia,2100.0,462.0
+2020,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,1.0
+2020,1,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,66.0,14.0
+2020,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,24898.0,2887.0
+2020,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,16.0,11.0
+2020,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1008.0,247.0
+2020,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2020,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,17439.0,2601.0
+2020,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,11.0,7.0
+2020,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,696.0,172.0
+2020,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2020,3,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,192.0,115.0
+2020,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,22795.0,3161.0
+2020,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,3.0,2.0
+2020,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,435.0,87.0
+2020,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,호주,Australia,1650.0,330.0
+2020,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2020,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,481.0,197.0
+2020,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,10274.0,1722.0
+2020,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,7.0,4.0
+2020,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,2136.0,530.0
+2020,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,1.0
+2020,5,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,500.0,224.0
+2020,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,21286.0,4202.0
+2020,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,17.0,11.0
+2020,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,2114.0,544.0
+2020,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,1.0
+2020,6,Export,"Korea export customs (FOB, USD1000)",0507901110,전지(全枝),Whole stick,홍콩,Hong Kong,74.0,22.0
+2020,6,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,575.0,174.0
+2020,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,14597.0,2664.0
+2020,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,20.0,11.0
+2020,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1568.0,408.0
+2020,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,중국,China,435.0,86.0
+2020,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2020,7,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,758.0,205.0
+2020,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,14850.0,2997.0
+2020,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,15.0,8.0
+2020,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,700.0,176.0
+2020,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2020,8,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,172.0,19.0
+2020,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,13183.0,2415.0
+2020,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,29.0,17.0
+2020,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1733.0,439.0
+2020,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,733.0,167.0
+2020,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,2.0
+2020,9,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,396.0,83.0
+2020,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,8219.0,1695.0
+2020,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,25.0,10.0
+2020,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,16743.0,4720.0
+2020,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,763.0,128.0
+2020,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,4.0,2.0
+2020,10,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,119.0,54.0
+2020,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,5700.0,1190.0
+2020,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,76.0,39.0
+2020,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,13319.0,3606.0
+2020,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,중국,China,280.0,57.0
+2020,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,4.0,1.0
+2020,11,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,589.0,121.0
+2020,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,25635.0,3251.0
+2020,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,20.0,12.0
+2020,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,7464.0,2048.0
+2020,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,9.0,2.0
+2020,12,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,588.0,123.0
+2021,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,21883.0,3726.0
+2021,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,19.0,11.0
+2021,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,4190.0,1201.0
+2021,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,중국,China,280.0,62.0
+2021,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,191.0,30.0
+2021,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,1.0
+2021,1,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,622.0,212.0
+2021,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,27650.0,2537.0
+2021,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,22.0,11.0
+2021,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,3695.0,1049.0
+2021,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,2.0
+2021,2,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,215.0,63.0
+2021,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,11165.0,2600.0
+2021,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,32.0,16.0
+2021,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,7.0,2.0
+2021,3,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,450.0,96.0
+2021,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,27189.0,3697.0
+2021,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,523.0,148.0
+2021,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,2432.0,657.0
+2021,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2021,4,Export,"Korea export customs (FOB, USD1000)",0507901110,전지(全枝),Whole stick,홍콩,Hong Kong,53.0,12.0
+2021,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,777.0,199.0
+2021,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,13486.0,2057.0
+2021,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,26.0,19.0
+2021,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1321.0,341.0
+2021,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,호주,Australia,4.0,1.0
+2021,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,2.0
+2021,5,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,39.0,8.0
+2021,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,7411.0,1724.0
+2021,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,119.0,55.0
+2021,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,800.0,204.0
+2021,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,5.0,3.0
+2021,6,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,384.0,126.0
+2021,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,18943.0,2748.0
+2021,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,17.0,12.0
+2021,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,111.0,28.0
+2021,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,1.0
+2021,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,11118.0,2671.0
+2021,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,19.0,15.0
+2021,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1512.0,401.0
+2021,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,미국,USA,1.0,0.0
+2021,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,1.0
+2021,8,Export,"Korea export customs (FOB, USD1000)",0507901110,전지(全枝),Whole stick,홍콩,Hong Kong,94.0,28.0
+2021,8,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,219.0,102.0
+2021,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,9870.0,2167.0
+2021,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,13.0,11.0
+2021,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1463.0,372.0
+2021,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,1288.0,313.0
+2021,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,2.0
+2021,9,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,1680.0,338.0
+2021,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,13546.0,1859.0
+2021,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,19.0,12.0
+2021,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,22293.0,6619.0
+2021,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,중국,China,260.0,65.0
+2021,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,140.0,35.0
+2021,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,11.0,3.0
+2021,10,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,200.0,36.0
+2021,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,22545.0,4248.0
+2021,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,37.0,19.0
+2021,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,18239.0,5474.0
+2021,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,중국,China,1.0,0.0
+2021,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,2.0
+2021,11,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,832.0,178.0
+2021,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,7150.0,1216.0
+2021,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,24.0,16.0
+2021,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,4152.0,1255.0
+2021,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,호주,Australia,2189.0,418.0
+2021,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,5.0,2.0
+2021,12,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,1396.0,259.0
+2022,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,39600.0,3768.0
+2022,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,20.0,14.0
+2022,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,3185.0,991.0
+2022,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,9.0,2.0
+2022,1,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,198.0,49.0
+2022,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,53308.0,5259.0
+2022,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,20.0,14.0
+2022,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,460.0,130.0
+2022,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2022,2,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,220.0,47.0
+2022,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,13125.0,2639.0
+2022,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,15.0,12.0
+2022,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1075.0,265.0
+2022,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2022,3,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,289.0,44.0
+2022,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,19445.0,4886.0
+2022,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,68.0,33.0
+2022,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,400.0,108.0
+2022,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,호주,Australia,2030.0,406.0
+2022,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,4.0,1.0
+2022,4,Export,"Korea export customs (FOB, USD1000)",0507901110,전지(全枝),Whole stick,베트남,Vietnam,220.0,83.0
+2022,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,1089.0,231.0
+2022,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,23532.0,3348.0
+2022,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,48.0,16.0
+2022,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,744.0,194.0
+2022,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,호주,Australia,493.0,102.0
+2022,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2022,5,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,82.0,15.0
+2022,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,7662.0,1668.0
+2022,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,19.0,15.0
+2022,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,400.0,108.0
+2022,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,356.0,47.0
+2022,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2022,6,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,717.0,124.0
+2022,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,34356.0,5153.0
+2022,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,11.0,8.0
+2022,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,3220.0,800.0
+2022,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2022,7,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,321.0,127.0
+2022,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,15162.0,3298.0
+2022,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,20.0,15.0
+2022,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1664.0,424.0
+2022,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,2.0
+2022,8,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,570.0,139.0
+2022,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,9328.0,2245.0
+2022,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,14.0,11.0
+2022,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,2407.0,851.0
+2022,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,1170.0,248.0
+2022,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,1.0
+2022,9,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,355.0,83.0
+2022,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,19873.0,4277.0
+2022,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,23.0,13.0
+2022,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,15221.0,5140.0
+2022,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,3.0,1.0
+2022,10,Export,"Korea export customs (FOB, USD1000)",0507901110,전지(全枝),Whole stick,필리핀,Philippines,7.0,1.0
+2022,10,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,206.0,7.0
+2022,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,16150.0,2791.0
+2022,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,16.0,12.0
+2022,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,15195.0,5416.0
+2022,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,571.0,121.0
+2022,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,호주,Australia,713.0,150.0
+2022,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2022,11,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,777.0,185.0
+2022,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,20467.0,2614.0
+2022,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,1763.0,617.0
+2022,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,6323.0,2114.0
+2022,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,미국,USA,1.0,0.0
+2022,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2022,12,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,537.0,164.0
+2023,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,9395.0,1785.0
+2023,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,11.0,9.0
+2023,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,3819.0,1447.0
+2023,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2023,1,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,698.0,165.0
+2023,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,28722.0,3465.0
+2023,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,13.0,10.0
+2023,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,822.0,290.0
+2023,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,184.0,31.0
+2023,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,23233.0,4007.0
+2023,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,14.0,9.0
+2023,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1302.0,362.0
+2023,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,중국,China,487.0,102.0
+2023,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2023,3,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,1053.0,221.0
+2023,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,50718.0,5030.0
+2023,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,11.0,9.0
+2023,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,6403.0,1824.0
+2023,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2023,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,54.0,13.0
+2023,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,17508.0,2437.0
+2023,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,10.0,7.0
+2023,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,2960.0,755.0
+2023,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,호주,Australia,1988.0,398.0
+2023,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2023,5,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,301.0,43.0
+2023,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,16989.0,3326.0
+2023,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,12.0,8.0
+2023,6,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,258.0,66.0
+2023,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,36751.0,5234.0
+2023,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,3869.0,271.0
+2023,7,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,411.0,89.0
+2023,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,6479.0,1853.0
+2023,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,8.0,6.0
+2023,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,831.0,249.0
+2023,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2023,8,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,383.0,105.0
+2023,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,5679.0,1546.0
+2023,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,8.0,5.0
+2023,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1352.0,356.0
+2023,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,160.0,40.0
+2023,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2023,9,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,343.0,101.0
+2023,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,19057.0,3356.0
+2023,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,10.0,8.0
+2023,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1919.0,516.0
+2023,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,488.0,81.0
+2023,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2023,10,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,745.0,206.0
+2023,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,10025.0,1987.0
+2023,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,510.0,176.0
+2023,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,7069.0,2059.0
+2023,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,2.0,1.0
+2023,11,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,2313.0,483.0
+2023,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,10812.0,1577.0
+2023,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,9.0,10.0
+2023,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,9909.0,2360.0
+2023,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,263.0,57.0
+2023,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2023,12,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,500.0,93.0
+2024,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,20336.0,2880.0
+2024,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,10.0,9.0
+2024,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,7764.0,2061.0
+2024,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2024,1,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,52.0,13.0
+2024,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,30526.0,4672.0
+2024,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,507.0,56.0
+2024,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1390.0,332.0
+2024,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,중국,China,2.0,0.0
+2024,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2024,2,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,619.0,101.0
+2024,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,23573.0,2095.0
+2024,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,2007.0,116.0
+2024,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1058.0,344.0
+2024,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,미국,USA,1.0,0.0
+2024,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,중국,China,2.0,0.0
+2024,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2024,3,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,32.0,0.0
+2024,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,9400.0,1715.0
+2024,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,9.0,8.0
+2024,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,2552.0,694.0
+2024,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2024,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,471.0,77.0
+2024,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,19162.0,2390.0
+2024,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,5.0,4.0
+2024,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,11047.0,2881.0
+2024,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,중국,China,1.0,0.0
+2024,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2024,5,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,162.0,37.0
+2024,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,13123.0,2067.0
+2024,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,7.0,6.0
+2024,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,525.0,105.0
+2024,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2024,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,8733.0,1394.0
+2024,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,2508.0,856.0
+2024,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,604.0,151.0
+2024,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,중국,China,1.0,0.0
+2024,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2024,7,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,930.0,180.0
+2024,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,9532.0,1263.0
+2024,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,5.0,4.0
+2024,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2024,8,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,399.0,77.0
+2024,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,1660.0,282.0
+2024,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,9.0,7.0
+2024,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,576.0,127.0
+2024,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,4500.0,772.0
+2024,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,10.0,8.0
+2024,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,413.0,69.0
+2024,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2024,10,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,399.0,77.0
+2024,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,25695.0,3858.0
+2024,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,1006.0,340.0
+2024,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,4665.0,965.0
+2024,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,중국,China,1.0,0.0
+2024,11,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,395.0,76.0
+2024,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,11841.0,971.0
+2024,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,7.0,6.0
+2024,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,10688.0,1539.0
+2024,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2024,12,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,289.0,44.0
+2025,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,23401.0,1493.0
+2025,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,5510.0,345.0
+2025,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,3351.0,646.0
+2025,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,아르헨티나,Argentina,1599.0,240.0
+2025,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2025,1,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,86.0,21.0
+2025,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,3943.0,649.0
+2025,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,9.0,7.0
+2025,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,5215.0,1004.0
+2025,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,37395.0,2421.0
+2025,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,9.0,7.0
+2025,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,7569.0,1290.0
+2025,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2025,3,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,563.0,92.0
+2025,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,22393.0,1883.0
+2025,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,6.0,4.0
+2025,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,6172.0,980.0
+2025,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2025,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,미국,USA,0.0,5.0
+2025,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,395.0,7.0
+2025,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,13856.0,1082.0
+2025,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,7.0,6.0
+2025,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1702.0,328.0
+2025,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2025,5,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,545.0,84.0
+2025,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,4100.0,603.0
+2025,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,7.0,5.0
+2025,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,900.0,144.0
+2025,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2025,6,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,미국,USA,36.0,4.0
+2025,6,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,682.0,105.0
+2025,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,14054.0,1457.0
+2025,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,606.0,89.0
+2025,7,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1484.0,252.0
+2025,7,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2025,7,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,220.0,55.0
+2025,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,7208.0,1131.0
+2025,8,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,7.0,5.0
+2025,8,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,706.0,113.0
+2025,8,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,미국,USA,36.0,4.0
+2025,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,18074.0,3038.0
+2025,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,11.0,7.0
+2025,9,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,600.0,106.0
+2025,9,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2025,9,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,미국,USA,588.0,13.0
+2025,9,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,658.0,82.0
+2025,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,19248.0,2590.0
+2025,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,7.0,4.0
+2025,10,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,2297.0,547.0
+2025,10,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2025,10,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,556.0,84.0
+2025,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,3410.0,406.0
+2025,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,7.0,6.0
+2025,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,2050.0,468.0
+2025,11,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,125.0,19.0
+2025,11,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2025,11,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,615.0,88.0
+2025,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,15702.0,1893.0
+2025,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,5007.0,197.0
+2025,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,5242.0,1047.0
+2025,12,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,카자흐스탄,Kazakhstan,933.0,121.0
+2025,12,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2025,12,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,미국,USA,20.0,3.0
+2025,12,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,814.0,121.0
+2026,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,7168.0,960.0
+2026,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,4.0,3.0
+2026,1,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,3105.0,578.0
+2026,1,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2026,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,17411.0,1269.0
+2026,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,6.0,5.0
+2026,2,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1122.0,227.0
+2026,2,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2026,2,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,623.0,90.0
+2026,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,16516.0,848.0
+2026,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,6.0,5.0
+2026,3,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,11252.0,2320.0
+2026,3,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2026,3,Export,"Korea export customs (FOB, USD1000)",0507901110,전지(全枝),Whole stick,홍콩,Hong Kong,2126.0,488.0
+2026,3,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,135.0,2.0
+2026,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,26280.0,2436.0
+2026,4,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,5.0,4.0
+2026,4,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,6020.0,1117.0
+2026,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,미국,USA,39.0,4.0
+2026,4,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,555.0,84.0
+2026,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,13674.0,1263.0
+2026,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,6.0,6.0
+2026,5,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,1875.0,367.0
+2026,5,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,0.0
+2026,5,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,86.0,21.0
+2026,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,뉴질랜드,New Zealand,11067.0,1234.0
+2026,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,뉴질랜드,New Zealand,6.0,6.0
+2026,6,Import,"Korea import customs (CIF, USD1000)",0507901110,전지(全枝),Whole stick,러시아 연방,Russia,936.0,187.0
+2026,6,Import,"Korea import customs (CIF, USD1000)",0507901190,기타,Others,호주,Australia,1.0,1.0
+2026,6,Export,"Korea export customs (FOB, USD1000)",0507901110,전지(全枝),Whole stick,홍콩,Hong Kong,72.0,9.0
+2026,6,Export,"Korea export customs (FOB, USD1000)",0507901190,기타,Others,홍콩,Hong Kong,375.0,11.0

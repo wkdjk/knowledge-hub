@@ -29,11 +29,11 @@
      nz-exports.csv 갱신해줘"라고 요청하면 아래 스크립트를 대신 실행해 줍니다
    - 직접 실행하려면 터미널에서:
      ```
-     python3 scripts/convert_qia.py "sources/<QIA 엑셀 파일명>"
-     python3 scripts/convert_statsnz.py "sources/<Stats NZ CSV 파일명>"
+     python3 scripts/convert_quarantine.py "sources/<검역 flat CSV 파일명>"
+     python3 scripts/convert_nz_exports.py "sources/<NZ 수출 flat CSV 파일명>"
      ```
    - 실행하면 화면에 **처리한 행 수 · 기간 · 연도별 합계**가 출력됩니다.
-     이 숫자가 원본 엑셀/CSV의 합계와 맞는지 눈으로 한 번 확인하세요.
+     이 숫자가 원본의 합계와 맞는지 눈으로 한 번 확인하세요.
 
 4. **요약문·카드·해설문을 새 분기 내용으로 고친다**
    `summary.txt`, `cards.csv`, `imports-notes.txt`, `nz-exports-notes.txt`
@@ -73,15 +73,17 @@
 | `delta` | 증감 (+/- 로 시작) | +6.4% |
 | `delta_note` | 비교 기준 | vs previous quarter |
 
-### 3. `imports.csv` / `imports-annual.csv` — 수입량 추이 차트
+### 3. `imports.csv` / `imports-monthly.csv` / `imports-annual.csv` — 수입량 추이 차트
 
-- **`imports-annual.csv`**: 원본 그대로에 가까운 자료입니다. 연도 × 국가 ×
-  형태(dried/frozen) × kg. **손으로 고치지 마세요** — `convert_qia.py`
-  스크립트가 자동으로 다시 만듭니다.
-- **`imports.csv`**: 위 파일에서 계산한 "건조 환산 톤" 값이며, 차트가 실제로
-  읽는 파일입니다 (건조 kg + 냉동 kg × 0.33, ÷1000).
+- **`imports-monthly.csv`**: QIA 검역 월 단위 원본. 연도 × 월 × 국가 ×
+  형태(dried/frozen) × kg. **손으로 고치지 마세요** — `convert_quarantine.py`가
+  검역 flat CSV에서 자동 생성합니다.
+- **`imports.csv`**: 차트가 실제로 읽는 "건조 환산 톤" 파일 (건조 kg + 냉동 kg
+  × 0.33, ÷1000). 2019년 이후는 월 단위(`imports-monthly.csv`)에서 집계하고,
+  2013~2018년은 예전 연간 통계(`imports-annual.csv`)에서 보존합니다.
+- **`imports-annual.csv`**: 2013~2018 과거분을 담은 연간 통계 (예전 QIA 엑셀 기반).
 
-QIA 원본 엑셀을 새로 받으면 손으로 고치지 말고 `scripts/convert_qia.py`를
+검역 flat CSV를 새로 받으면 손으로 고치지 말고 `scripts/convert_quarantine.py`를
 실행하세요 (A절 참고).
 
 | 열(imports.csv) | 의미 | 예시 |
@@ -90,12 +92,12 @@ QIA 원본 엑셀을 새로 받으면 손으로 고치지 말고 `scripts/conver
 | `country` | 국가명 (영문) | New Zealand |
 | `tonnes` | 건조 환산 수입량 (톤) | 40.0 |
 
-> **참고**: 현재 QIA 원본 엑셀(`Korean import statistics for deer velvet.xlsx`)은
-> **연도별 합계만** 담고 있어 월 단위 데이터를 자동으로 만들 수 없습니다.
-> 월 단위 수치는 **`imports-monthly.csv`에 직접 채워 넣는 방식**으로 관리합니다
-> (열: `year`, `month`, `country`, `form`(dried/frozen), `kg`).
-> 이 파일이 채워지면 클로드코드에게 "월간 데이터로 연간 CSV 다시 집계해줘"라고
-> 요청해서 `imports.csv`를 월간 파일 기준으로 재생성할 수 있습니다.
+> **참고 1 — 진행 중인 해**: 12개월이 다 차지 않은 해(예: 2026)는 차트에서
+> 자동으로 제외됩니다. 월별 상세는 `imports-monthly.csv`와 다운로드 파일에 남습니다.
+>
+> **참고 2 — 2026년 검역 건수(Cases)**: 2026년부터 검역 건수에는 일반 여행객의
+> 핸드캐리(직접 소지) 반입 건이 포함되어 건수가 크게 늘 수 있습니다. 다만 차트는
+> 건수가 아니라 kg만 사용하므로 그래프에는 영향이 없습니다.
 
 ### 4. `imports-notes.txt` — 수입량 차트 아래 해설문
 
@@ -107,10 +109,10 @@ QIA 원본 엑셀을 새로 받으면 손으로 고치지 말고 `scripts/conver
 - **`nz-exports-monthly.csv`**: 원본에 가까운 자료. 연도 × 월 × 목적지 국가 ×
   형태 × kg. **손으로 고치지 마세요** — `convert_statsnz.py`가 자동 생성합니다.
 - **`nz-exports.csv`**: 위 파일을 연도별로 합산한 톤 수치이며, 차트가 실제로
-  읽는 파일입니다. Stats NZ CSV에 있는 목적지(한국·중국·홍콩·대만) 합산 기준이며,
-  뉴질랜드 전 세계 수출 총량이 아닙니다.
+  읽는 파일입니다. 녹용 3품목(건조/냉동/기타)을 **전체 목적지 합산**한 값입니다
+  (뿔·분말 제외). 한국만 따로 보고 싶으면 월 단위 파일의 `destination` 열을 쓰세요.
 
-Stats NZ 원본 CSV를 새로 받으면 `scripts/convert_statsnz.py`를 실행하세요 (A절 참고).
+NZ 수출 flat CSV를 새로 받으면 `scripts/convert_nz_exports.py`를 실행하세요 (A절 참고).
 
 ### 6. `nz-exports-notes.txt` — NZ 수출 차트 아래 해설문
 

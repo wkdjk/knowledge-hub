@@ -1,1 +1,410 @@
 year,month,country,form,kg
+2019,1,China,dried,6509.6
+2019,1,Hong Kong,dried,353
+2019,1,New Zealand,dried,2819.49
+2019,1,New Zealand,frozen,7649.46
+2019,1,Russia,dried,1338
+2019,2,China,dried,4150
+2019,2,Hong Kong,dried,3528.6
+2019,2,New Zealand,dried,4578
+2019,2,New Zealand,frozen,14807
+2019,3,China,dried,7550.34
+2019,3,Hong Kong,dried,400
+2019,3,New Zealand,dried,6774.43
+2019,3,New Zealand,frozen,24581.3
+2019,4,China,dried,3178.3
+2019,4,Hong Kong,dried,2026
+2019,4,New Zealand,dried,5595.34
+2019,4,New Zealand,frozen,4985.86
+2019,4,Russia,dried,3017.16
+2019,5,China,dried,13226
+2019,5,Hong Kong,dried,1074.4
+2019,5,New Zealand,dried,3111.18
+2019,5,New Zealand,frozen,767.75
+2019,6,China,dried,1860
+2019,6,Hong Kong,dried,300
+2019,6,New Zealand,dried,2560.46
+2019,6,New Zealand,frozen,1200
+2019,6,Russia,dried,3278.75
+2019,6,Singapore,dried,500
+2019,7,China,dried,13463.1
+2019,7,Hong Kong,dried,2862
+2019,7,New Zealand,dried,1433.5
+2019,7,New Zealand,frozen,9500
+2019,7,Russia,dried,441
+2019,8,China,dried,2680
+2019,8,Hong Kong,dried,1030
+2019,8,New Zealand,dried,3537.51
+2019,8,New Zealand,frozen,11990
+2019,8,Russia,dried,520
+2019,9,China,dried,4573.57
+2019,9,Hong Kong,dried,621
+2019,9,New Zealand,dried,5155.03
+2019,9,Russia,dried,234
+2019,10,China,dried,4956
+2019,10,Hong Kong,dried,1405
+2019,10,Kazakhstan,dried,140
+2019,10,New Zealand,dried,1155.6
+2019,10,New Zealand,frozen,1000
+2019,10,Russia,dried,17911.4
+2019,11,China,dried,2826.6
+2019,11,Hong Kong,dried,3826
+2019,11,Kazakhstan,dried,396
+2019,11,New Zealand,dried,1300
+2019,11,New Zealand,frozen,7300
+2019,11,Russia,dried,9844.03
+2019,12,China,dried,700
+2019,12,Hong Kong,dried,400
+2019,12,Kazakhstan,dried,165
+2019,12,New Zealand,dried,6000
+2019,12,New Zealand,frozen,15331.6
+2019,12,Russia,dried,9851.65
+2020,1,China,dried,7620
+2020,1,Hong Kong,dried,2996.2
+2020,1,Kazakhstan,dried,667
+2020,1,New Zealand,dried,290.1
+2020,1,New Zealand,frozen,6630
+2020,1,Russia,dried,2262.8
+2020,2,China,dried,3823
+2020,2,Hong Kong,dried,400
+2020,2,New Zealand,dried,6919.98
+2020,2,New Zealand,frozen,15200
+2020,2,Russia,dried,608.1
+2020,3,China,dried,3970
+2020,3,Hong Kong,dried,860
+2020,3,New Zealand,dried,2720
+2020,3,New Zealand,frozen,9223
+2020,3,Russia,dried,336
+2020,4,China,dried,7688
+2020,4,Hong Kong,dried,2085
+2020,4,New Zealand,frozen,12086
+2020,5,China,dried,3829
+2020,5,Hong Kong,dried,360
+2020,5,New Zealand,dried,7824.41
+2020,5,New Zealand,frozen,3610
+2020,5,Russia,dried,1775.71
+2020,6,China,dried,8451.62
+2020,6,New Zealand,dried,5844.96
+2020,6,New Zealand,frozen,6321.5
+2020,6,Russia,dried,2114.3
+2020,7,China,dried,6165
+2020,7,Hong Kong,dried,410
+2020,7,New Zealand,dried,4256.85
+2020,7,New Zealand,frozen,8906.82
+2020,7,Russia,dried,1158
+2020,8,China,dried,5536.7
+2020,8,Hong Kong,dried,400
+2020,8,New Zealand,dried,3988.41
+2020,8,New Zealand,frozen,4000
+2020,8,Russia,dried,300.1
+2020,9,China,dried,5250
+2020,9,Hong Kong,dried,689.5
+2020,9,Kazakhstan,dried,732.7
+2020,9,Russia,dried,1693.9
+2020,10,China,dried,7279
+2020,10,Hong Kong,dried,1340
+2020,10,Kazakhstan,dried,762.75
+2020,10,Russia,dried,18702
+2020,11,China,dried,6025
+2020,11,Hong Kong,dried,750
+2020,11,New Zealand,dried,3750.7
+2020,11,Russia,dried,16630.9
+2020,12,China,dried,12018
+2020,12,Hong Kong,dried,3410
+2020,12,Kazakhstan,dried,191
+2020,12,New Zealand,dried,2030.54
+2020,12,New Zealand,frozen,11500
+2020,12,Russia,dried,8459.7
+2021,1,China,dried,7215
+2021,1,New Zealand,dried,1910.17
+2021,1,New Zealand,frozen,23775
+2021,1,Russia,dried,479
+2021,2,China,dried,2346.36
+2021,2,Hong Kong,dried,400
+2021,2,New Zealand,dried,1278.38
+2021,2,New Zealand,frozen,6300
+2021,2,Russia,dried,2179.75
+2021,3,China,dried,7977
+2021,3,Hong Kong,dried,2800
+2021,3,New Zealand,dried,4667.63
+2021,3,Russia,dried,981
+2021,4,China,dried,5300
+2021,4,Hong Kong,dried,400
+2021,4,New Zealand,dried,2408.74
+2021,4,New Zealand,frozen,15700
+2021,4,Russia,dried,313
+2021,5,China,dried,8900
+2021,5,Hong Kong,dried,1785.8
+2021,5,New Zealand,dried,4557.59
+2021,5,New Zealand,frozen,5500
+2021,5,Russia,dried,1068
+2021,6,Hong Kong,dried,400
+2021,6,New Zealand,dried,3735.66
+2021,6,New Zealand,frozen,7222.14
+2021,7,China,dried,2050
+2021,7,New Zealand,dried,1938.22
+2021,7,New Zealand,frozen,5500
+2021,7,Russia,dried,111.25
+2021,8,China,dried,10141.9
+2021,8,Hong Kong,dried,800
+2021,8,New Zealand,dried,3466.04
+2021,8,Russia,dried,711.75
+2021,9,China,dried,6330
+2021,9,Hong Kong,dried,2350
+2021,9,Kazakhstan,dried,1288
+2021,9,Russia,dried,1829
+2021,10,China,dried,5008.89
+2021,10,Hong Kong,dried,9097
+2021,10,Kazakhstan,dried,140
+2021,10,New Zealand,dried,1.5
+2021,10,New Zealand,frozen,7377
+2021,10,Russia,dried,24864.6
+2021,11,China,dried,8377.42
+2021,11,Hong Kong,dried,1638.88
+2021,11,New Zealand,dried,160
+2021,11,New Zealand,frozen,4500
+2021,11,Russia,dried,17976.8
+2021,12,China,dried,8839.25
+2021,12,Hong Kong,dried,2700
+2021,12,New Zealand,frozen,16000
+2021,12,Russia,dried,5466.05
+2022,1,China,dried,5600
+2022,1,New Zealand,frozen,33397.5
+2022,1,Russia,dried,1171.44
+2022,2,China,dried,4548.6
+2022,2,Hong Kong,dried,3400
+2022,2,New Zealand,dried,4561.89
+2022,2,New Zealand,frozen,26000
+2022,2,Russia,dried,60
+2022,3,China,dried,1080.26
+2022,3,Hong Kong,dried,12223.1
+2022,3,New Zealand,dried,5305.64
+2022,3,New Zealand,frozen,2670.61
+2022,3,Russia,dried,775
+2022,4,China,dried,9020
+2022,4,Hong Kong,dried,2430
+2022,4,New Zealand,dried,5928.71
+2022,4,New Zealand,frozen,1000
+2022,5,China,dried,6053.18
+2022,5,Hong Kong,dried,1131.5
+2022,5,New Zealand,dried,3094.24
+2022,5,New Zealand,frozen,12278.9
+2022,5,Russia,dried,344
+2022,6,China,dried,3210
+2022,6,Hong Kong,dried,400
+2022,6,Kazakhstan,dried,356
+2022,6,New Zealand,dried,6086.5
+2022,6,New Zealand,frozen,1500
+2022,6,Russia,dried,170
+2022,7,China,dried,13500
+2022,7,Hong Kong,dried,3050
+2022,7,New Zealand,frozen,17195.2
+2022,8,China,dried,6096
+2022,8,Hong Kong,dried,400
+2022,8,New Zealand,dried,5659.79
+2022,8,New Zealand,frozen,1502.35
+2022,8,Russia,dried,1264
+2022,9,China,dried,4780
+2022,9,Hong Kong,dried,400
+2022,9,Kazakhstan,dried,1170.1
+2022,9,New Zealand,dried,3578.49
+2022,9,New Zealand,frozen,800
+2022,9,Russia,dried,2007
+2022,10,China,dried,14334.3
+2022,10,New Zealand,dried,3485.93
+2022,10,New Zealand,frozen,1519.33
+2022,10,Russia,dried,21482.2
+2022,11,China,dried,11862.5
+2022,11,Kazakhstan,dried,570.7
+2022,11,New Zealand,dried,1750
+2022,11,New Zealand,frozen,5000
+2022,11,Russia,dried,11937.3
+2022,12,China,dried,9467
+2022,12,Hong Kong,dried,400
+2022,12,New Zealand,frozen,13720
+2022,12,Russia,dried,4678.09
+2023,1,China,dried,5310
+2023,1,Hong Kong,dried,682
+2023,1,Kazakhstan,dried,184
+2023,1,New Zealand,dried,4560.71
+2023,1,New Zealand,frozen,2500
+2023,1,Russia,dried,2200.41
+2023,2,China,dried,4148
+2023,2,Hong Kong,dried,878
+2023,2,New Zealand,dried,3446.81
+2023,2,New Zealand,frozen,19490
+2023,2,Russia,dried,334.3
+2023,3,China,dried,4289
+2023,3,New Zealand,dried,6089.76
+2023,3,New Zealand,frozen,28500
+2023,3,Russia,dried,967.2
+2023,4,China,dried,9121
+2023,4,Hong Kong,dried,2800
+2023,4,New Zealand,dried,5128.29
+2023,4,New Zealand,frozen,20000
+2023,4,Russia,dried,3603.25
+2023,5,China,dried,5400
+2023,5,Hong Kong,dried,2960
+2023,5,New Zealand,dried,4810.19
+2023,5,New Zealand,frozen,11067.9
+2023,6,China,dried,6690
+2023,6,Hong Kong,dried,900
+2023,6,New Zealand,dried,5268.2
+2023,6,New Zealand,frozen,4572.14
+2023,7,China,dried,15790.1
+2023,7,Hong Kong,dried,296
+2023,7,New Zealand,dried,2411.9
+2023,7,New Zealand,frozen,18462
+2023,8,China,dried,480
+2023,8,New Zealand,dried,7314.96
+2023,8,New Zealand,frozen,500
+2023,8,Russia,dried,830.79
+2023,9,China,dried,2763
+2023,9,Kazakhstan,dried,160
+2023,9,New Zealand,dried,4278.02
+2023,9,Russia,dried,1352
+2023,10,China,dried,8900
+2023,10,Kazakhstan,dried,488
+2023,10,New Zealand,dried,1584.1
+2023,10,New Zealand,frozen,5079
+2023,10,Russia,dried,2500.25
+2023,11,China,dried,5361
+2023,11,Hong Kong,dried,4080
+2023,11,New Zealand,dried,2935.37
+2023,11,New Zealand,frozen,300
+2023,11,Russia,dried,6488.69
+2023,12,China,dried,5990.7
+2023,12,Kazakhstan,dried,262.8
+2023,12,New Zealand,frozen,5821.1
+2023,12,Russia,dried,10831.7
+2024,1,China,dried,8400
+2024,1,Hong Kong,dried,86
+2024,1,New Zealand,dried,6140.15
+2024,1,New Zealand,frozen,7000.95
+2024,1,Russia,dried,6754.9
+2024,2,China,dried,7800
+2024,2,China,frozen,400
+2024,2,New Zealand,dried,1185.21
+2024,2,New Zealand,frozen,15000.2
+2024,2,Russia,dried,1390.21
+2024,3,China,dried,5500
+2024,3,New Zealand,dried,553.38
+2024,3,New Zealand,frozen,19520
+2024,3,Russia,dried,1177.84
+2024,4,China,dried,9400
+2024,4,Russia,dried,4854.43
+2024,5,China,dried,8451.25
+2024,5,New Zealand,dried,2969.17
+2024,5,New Zealand,frozen,11096.1
+2024,5,Russia,dried,8625.02
+2024,6,China,dried,9551
+2024,6,New Zealand,frozen,2723
+2024,6,Russia,dried,1128.8
+2024,7,China,dried,7982.57
+2024,7,Hong Kong,dried,3000
+2024,7,New Zealand,dried,2500
+2024,7,New Zealand,frozen,530
+2024,8,China,dried,3000
+2024,8,New Zealand,frozen,3002.18
+2024,9,China,dried,1400
+2024,9,Hong Kong,dried,1260
+2024,9,Russia,dried,576
+2024,10,China,dried,3500
+2024,10,Kazakhstan,dried,413
+2024,10,New Zealand,dried,1000
+2024,10,Russia,dried,2500.57
+2024,11,China,dried,20255
+2024,11,New Zealand,dried,2439.7
+2024,11,New Zealand,frozen,3000
+2024,11,Russia,dried,2164.38
+2024,12,China,dried,4150
+2024,12,New Zealand,frozen,15065.9
+2024,12,Russia,dried,10687.7
+2025,1,China,dried,3500
+2025,1,Hong Kong,dried,1598.6
+2025,1,New Zealand,frozen,18026
+2025,1,Russia,dried,3350.68
+2025,2,China,dried,7095
+2025,2,New Zealand,dried,322.9
+2025,2,New Zealand,frozen,5818.78
+2025,2,Russia,dried,5214.75
+2025,3,China,dried,5210
+2025,3,Hong Kong,dried,400
+2025,3,New Zealand,dried,954.46
+2025,3,New Zealand,frozen,31412.1
+2025,3,Russia,dried,9555.62
+2025,4,China,dried,5760
+2025,4,Hong Kong,dried,400
+2025,4,New Zealand,dried,1024.37
+2025,4,New Zealand,frozen,12629.2
+2025,4,Russia,dried,3385.44
+2025,5,China,dried,4660
+2025,5,New Zealand,dried,500
+2025,5,New Zealand,frozen,6774.75
+2025,5,Russia,dried,1702
+2025,6,China,dried,4700
+2025,6,New Zealand,frozen,2293.58
+2025,6,Russia,dried,2010
+2025,7,China,dried,6160
+2025,7,New Zealand,frozen,5000
+2025,7,Russia,dried,373.5
+2025,8,China,dried,14311
+2025,8,New Zealand,dried,937.73
+2025,8,Russia,dried,806
+2025,9,China,dried,14760
+2025,9,China,frozen,700
+2025,9,Hong Kong,dried,500
+2025,9,New Zealand,dried,4573.3
+2025,10,China,dried,6044
+2025,10,Hong Kong,dried,400
+2025,10,Kazakhstan,dried,125
+2025,10,New Zealand,frozen,3203.9
+2025,10,Russia,dried,2796.53
+2025,11,China,dried,4023
+2025,11,New Zealand,dried,500
+2025,11,Russia,dried,4139.42
+2025,12,China,dried,14170
+2025,12,China,frozen,650
+2025,12,Hong Kong,dried,400
+2025,12,Kazakhstan,dried,933
+2025,12,New Zealand,frozen,9066.78
+2025,12,Russia,dried,3106.57
+2026,1,Australia,dried,0.3
+2026,1,China,dried,1870.5
+2026,1,Hong Kong,dried,500
+2026,1,Mongolia,dried,0.3
+2026,1,New Zealand,dried,2.2
+2026,1,New Zealand,frozen,4000
+2026,1,Russia,dried,1350
+2026,2,Australia,dried,0.5
+2026,2,China,dried,5161.2
+2026,2,New Zealand,dried,1.1
+2026,2,New Zealand,frozen,9279
+2026,2,Russia,dried,3755.6
+2026,3,Australia,dried,0.1
+2026,3,China,dried,1160
+2026,3,Hong Kong,dried,400
+2026,3,New Zealand,dried,926
+2026,3,New Zealand,frozen,20203.4
+2026,3,Russia,dried,8222
+2026,3,USA,dried,0.5
+2026,4,Australia,dried,0.1
+2026,4,China,dried,12696
+2026,4,Hong Kong,dried,400
+2026,4,New Zealand,dried,775.3
+2026,4,New Zealand,frozen,8413.5
+2026,4,Russia,dried,5620.2
+2026,4,USA,dried,0.1
+2026,5,Australia,dried,0.3
+2026,5,China,dried,9137
+2026,5,New Zealand,dried,973.7
+2026,5,New Zealand,frozen,3682
+2026,5,Russia,dried,1875
+2026,5,USA,dried,1.2
+2026,6,Australia,dried,0.5
+2026,6,Canada,dried,0.1
+2026,6,China,dried,6502.7
+2026,6,Hong Kong,dried,500
+2026,6,New Zealand,dried,995.7
+2026,6,New Zealand,frozen,3051
+2026,6,Russia,dried,435.9

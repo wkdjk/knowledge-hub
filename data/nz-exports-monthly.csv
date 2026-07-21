@@ -1,379 +1,447 @@
 year,month,destination,form,kg
-2018,1,"China, People's Republic of",dried,5000
-2018,1,"China, People's Republic of",frozen,36376
-2018,1,Hong Kong (Special Administrative Region),frozen,2140
-2018,1,"Korea, Republic of",dried,900
-2018,1,"Korea, Republic of",frozen,17504
-2018,1,Taiwan,frozen,1246
-2018,2,"China, People's Republic of",dried,6
-2018,2,"China, People's Republic of",frozen,88777
-2018,2,"Korea, Republic of",dried,2991
-2018,2,"Korea, Republic of",frozen,14778
-2018,2,Taiwan,other,25
-2018,3,"China, People's Republic of",frozen,77666
-2018,3,Hong Kong (Special Administrative Region),frozen,2202
-2018,3,"Korea, Republic of",dried,1120
-2018,3,"Korea, Republic of",frozen,7653
-2018,3,Taiwan,dried,21
-2018,3,Taiwan,frozen,882
-2018,4,"China, People's Republic of",dried,11
-2018,4,"China, People's Republic of",frozen,49293
-2018,4,"Korea, Republic of",dried,2191
-2018,4,Taiwan,dried,6
-2018,4,Taiwan,frozen,1233
-2018,5,"China, People's Republic of",dried,6
-2018,5,"China, People's Republic of",frozen,41178
-2018,5,"Korea, Republic of",dried,1217
-2018,5,"Korea, Republic of",frozen,6077
-2018,6,"China, People's Republic of",dried,55
-2018,6,"China, People's Republic of",frozen,19290
-2018,6,"Korea, Republic of",dried,4053
-2018,6,"Korea, Republic of",frozen,1500
-2018,7,"China, People's Republic of",dried,55
-2018,7,Hong Kong (Special Administrative Region),frozen,289
-2018,7,"Korea, Republic of",dried,3130
-2018,7,"Korea, Republic of",frozen,1672
-2018,8,"China, People's Republic of",dried,28
-2018,8,"China, People's Republic of",frozen,6037
-2018,8,Hong Kong (Special Administrative Region),dried,6
-2018,8,"Korea, Republic of",dried,1232
-2018,8,"Korea, Republic of",frozen,4000
-2018,9,"China, People's Republic of",dried,865
-2018,9,"China, People's Republic of",frozen,1572
-2018,9,"Korea, Republic of",dried,398
-2018,9,Taiwan,dried,6
-2018,10,"China, People's Republic of",dried,225
-2018,10,Hong Kong (Special Administrative Region),dried,279
-2018,10,"Korea, Republic of",frozen,2504
-2018,10,Taiwan,dried,110
-2018,11,"China, People's Republic of",dried,84
-2018,11,"China, People's Republic of",frozen,73451
-2018,11,Hong Kong (Special Administrative Region),frozen,658
-2018,11,"Korea, Republic of",frozen,2000
-2018,11,Taiwan,frozen,768
-2018,12,"China, People's Republic of",frozen,72904
-2018,12,Hong Kong (Special Administrative Region),dried,140
-2018,12,"Korea, Republic of",frozen,16692
-2018,12,Taiwan,dried,6
-2019,1,"China, People's Republic of",dried,549
-2019,1,"China, People's Republic of",frozen,63036
-2019,1,Hong Kong (Special Administrative Region),dried,66
-2019,1,"Korea, Republic of",dried,2957
-2019,1,"Korea, Republic of",frozen,7030
+2019,1,Australia,dried,452
+2019,1,China,dried,549
+2019,1,China,frozen,63036
+2019,1,Hong Kong,dried,66
+2019,1,Japan,dried,284
+2019,1,Singapore,dried,107
+2019,1,South Korea,dried,2957
+2019,1,South Korea,frozen,7030
 2019,1,Taiwan,frozen,2805
-2019,2,"China, People's Republic of",dried,19
-2019,2,"China, People's Republic of",frozen,61563
-2019,2,Hong Kong (Special Administrative Region),dried,44
-2019,2,"Korea, Republic of",dried,825
-2019,2,"Korea, Republic of",frozen,13325
+2019,1,USA,dried,180
+2019,2,Australia,dried,153
+2019,2,Canada,dried,114
+2019,2,China,dried,19
+2019,2,China,frozen,61563
+2019,2,Hong Kong,dried,44
+2019,2,South Korea,dried,825
+2019,2,South Korea,frozen,13325
 2019,2,Taiwan,dried,368
-2019,3,"China, People's Republic of",frozen,66203
-2019,3,Hong Kong (Special Administrative Region),dried,100
-2019,3,"Korea, Republic of",dried,1893
-2019,3,"Korea, Republic of",frozen,2000
+2019,2,USA,dried,462
+2019,3,Australia,dried,11
+2019,3,China,frozen,66203
+2019,3,Hong Kong,dried,100
+2019,3,Japan,dried,175
+2019,3,South Korea,dried,1893
+2019,3,South Korea,frozen,2000
 2019,3,Taiwan,dried,150
 2019,3,Taiwan,frozen,1028
-2019,4,"China, People's Republic of",frozen,31622
-2019,4,Hong Kong (Special Administrative Region),dried,33
-2019,4,"Korea, Republic of",dried,3418
-2019,4,"Korea, Republic of",frozen,3097
-2019,5,"China, People's Republic of",dried,737
-2019,5,"China, People's Republic of",frozen,48129
-2019,5,Hong Kong (Special Administrative Region),dried,1645
-2019,5,"Korea, Republic of",dried,1492
-2019,5,"Korea, Republic of",frozen,768
+2019,3,USA,dried,668
+2019,4,Australia,dried,142
+2019,4,China,frozen,31622
+2019,4,Hong Kong,dried,33
+2019,4,Japan,dried,488
+2019,4,South Korea,dried,3418
+2019,4,South Korea,frozen,3097
+2019,4,USA,dried,1632
+2019,5,Australia,dried,188
+2019,5,Canada,dried,128
+2019,5,China,dried,737
+2019,5,China,frozen,48129
+2019,5,Hong Kong,dried,1645
+2019,5,Japan,dried,50
+2019,5,Singapore,dried,17
+2019,5,South Korea,dried,1492
+2019,5,South Korea,frozen,768
 2019,5,Taiwan,dried,24
-2019,6,"China, People's Republic of",dried,29
-2019,6,Hong Kong (Special Administrative Region),dried,40
-2019,6,"Korea, Republic of",dried,2111
+2019,5,USA,dried,498
+2019,5,USA,other,86
+2019,6,Australia,dried,751
+2019,6,China,dried,29
+2019,6,Hong Kong,dried,40
+2019,6,Japan,dried,868
+2019,6,South Korea,dried,2111
 2019,6,Taiwan,dried,17
-2019,7,"China, People's Republic of",dried,139
-2019,7,Hong Kong (Special Administrative Region),dried,17
-2019,7,"Korea, Republic of",dried,716
-2019,7,"Korea, Republic of",frozen,1000
-2019,8,"China, People's Republic of",dried,229
-2019,8,Hong Kong (Special Administrative Region),dried,8
-2019,8,"Korea, Republic of",dried,2748
+2019,6,USA,dried,897
+2019,6,USA,frozen,100
+2019,7,Australia,dried,67
+2019,7,Canada,dried,134
+2019,7,China,dried,139
+2019,7,Hong Kong,dried,17
+2019,7,Japan,dried,85
+2019,7,Singapore,dried,14
+2019,7,South Korea,dried,716
+2019,7,South Korea,frozen,1000
+2019,7,USA,dried,1639
+2019,7,USA,other,100
+2019,8,Australia,dried,231
+2019,8,China,dried,229
+2019,8,Hong Kong,dried,8
+2019,8,Japan,dried,85
+2019,8,South Korea,dried,2748
 2019,8,Taiwan,dried,37
-2019,9,"China, People's Republic of",dried,305
-2019,9,"Korea, Republic of",dried,350
-2019,10,"China, People's Republic of",dried,358
-2019,10,"China, People's Republic of",frozen,3000
-2019,10,Hong Kong (Special Administrative Region),dried,55
-2019,10,"Korea, Republic of",dried,684
-2019,10,"Korea, Republic of",frozen,1000
+2019,8,USA,dried,1159
+2019,9,Australia,dried,470
+2019,9,Canada,dried,549
+2019,9,China,dried,305
+2019,9,Japan,dried,428
+2019,9,Singapore,dried,63
+2019,9,South Korea,dried,350
+2019,9,USA,dried,297
+2019,10,Australia,dried,356
+2019,10,Canada,dried,19
+2019,10,China,dried,358
+2019,10,China,frozen,3000
+2019,10,Hong Kong,dried,55
+2019,10,Japan,dried,349
+2019,10,South Korea,dried,684
+2019,10,South Korea,frozen,1000
 2019,10,Taiwan,dried,80
 2019,10,Taiwan,frozen,181
-2019,11,"China, People's Republic of",dried,6
-2019,11,"China, People's Republic of",frozen,53443
-2019,11,Hong Kong (Special Administrative Region),dried,40
-2019,11,"Korea, Republic of",dried,431
-2019,11,"Korea, Republic of",frozen,6201
+2019,10,USA,dried,20
+2019,11,Australia,dried,295
+2019,11,Canada,dried,60
+2019,11,China,dried,6
+2019,11,China,frozen,53443
+2019,11,Hong Kong,dried,40
+2019,11,Japan,dried,1068
+2019,11,Singapore,dried,45
+2019,11,South Korea,dried,431
+2019,11,South Korea,frozen,6201
 2019,11,Taiwan,dried,10
 2019,11,Taiwan,frozen,356
-2019,12,"China, People's Republic of",dried,145
-2019,12,"China, People's Republic of",frozen,83823
-2019,12,Hong Kong (Special Administrative Region),dried,45
-2019,12,Hong Kong (Special Administrative Region),frozen,816
-2019,12,"Korea, Republic of",dried,5
-2019,12,"Korea, Republic of",frozen,8500
+2019,11,USA,dried,503
+2019,12,Australia,dried,403
+2019,12,Canada,dried,50
+2019,12,China,dried,145
+2019,12,China,frozen,83823
+2019,12,Hong Kong,dried,45
+2019,12,Hong Kong,frozen,816
+2019,12,Japan,dried,221
+2019,12,South Korea,dried,5
+2019,12,South Korea,frozen,8500
 2019,12,Taiwan,frozen,2591
-2020,1,"China, People's Republic of",frozen,75760
-2020,1,"Korea, Republic of",dried,240
-2020,1,"Korea, Republic of",frozen,1631
-2020,2,"China, People's Republic of",frozen,59473
-2020,2,"Korea, Republic of",dried,6121
-2020,2,"Korea, Republic of",frozen,8700
-2020,3,"China, People's Republic of",frozen,80471
-2020,3,"Korea, Republic of",dried,2720
+2019,12,USA,dried,161
+2020,1,Australia,dried,20
+2020,1,China,frozen,75760
+2020,1,Japan,dried,205
+2020,1,South Korea,dried,240
+2020,1,South Korea,frozen,1631
+2020,1,USA,dried,428
+2020,2,Australia,dried,20
+2020,2,China,frozen,59473
+2020,2,South Korea,dried,6121
+2020,2,South Korea,frozen,8700
+2020,3,China,frozen,80471
+2020,3,Singapore,dried,25
+2020,3,South Korea,dried,2720
 2020,3,Taiwan,dried,659
 2020,3,Taiwan,frozen,695
-2020,4,"China, People's Republic of",frozen,33039
-2020,4,"Korea, Republic of",dried,3210
-2020,4,"Korea, Republic of",frozen,13000
+2020,3,USA,dried,10
+2020,3,USA,other,92
+2020,4,Australia,frozen,500
+2020,4,China,frozen,33039
+2020,4,South Korea,dried,3210
+2020,4,South Korea,frozen,13000
 2020,4,Taiwan,dried,20
-2020,5,"China, People's Republic of",frozen,40941
-2020,5,"Korea, Republic of",dried,1205
-2020,6,"China, People's Republic of",frozen,16265
-2020,6,"Korea, Republic of",dried,5844
-2020,7,"China, People's Republic of",frozen,17140
-2020,7,Hong Kong (Special Administrative Region),dried,22
-2020,7,"Korea, Republic of",dried,2571
-2020,7,"Korea, Republic of",frozen,2631
-2020,8,"China, People's Republic of",frozen,4562
-2020,8,Hong Kong (Special Administrative Region),dried,17
-2020,8,"Korea, Republic of",dried,645
-2020,9,Hong Kong (Special Administrative Region),dried,667
+2020,5,Australia,frozen,324
+2020,5,China,frozen,40941
+2020,5,South Korea,dried,1205
+2020,6,Australia,frozen,1037
+2020,6,China,frozen,16265
+2020,6,South Korea,dried,5844
+2020,6,USA,dried,50
+2020,7,Australia,dried,5
+2020,7,Australia,frozen,1000
+2020,7,China,frozen,17140
+2020,7,Hong Kong,dried,22
+2020,7,Japan,dried,50
+2020,7,South Korea,dried,2571
+2020,7,South Korea,frozen,2631
+2020,7,USA,other,121
+2020,8,Australia,dried,50
+2020,8,Australia,frozen,1000
+2020,8,China,frozen,4562
+2020,8,Hong Kong,dried,17
+2020,8,South Korea,dried,645
+2020,8,USA,dried,50
+2020,9,Australia,other,20
+2020,9,Hong Kong,dried,667
 2020,9,Taiwan,frozen,1294
-2020,10,"China, People's Republic of",frozen,3180
-2020,10,"Korea, Republic of",dried,1901
+2020,9,USA,other,310
+2020,10,China,frozen,3180
+2020,10,South Korea,dried,1901
 2020,10,Taiwan,dried,102
-2020,11,"China, People's Republic of",frozen,54238
-2020,11,"Korea, Republic of",frozen,800
-2020,12,"China, People's Republic of",frozen,122399
-2020,12,"Korea, Republic of",frozen,14775
+2020,10,USA,other,100
+2020,11,China,frozen,54238
+2020,11,South Korea,frozen,800
+2020,11,USA,other,3276
+2020,12,China,frozen,122399
+2020,12,Japan,dried,50
+2020,12,South Korea,frozen,14775
 2020,12,Taiwan,frozen,400
-2021,1,"China, People's Republic of",frozen,100536
-2021,1,Hong Kong (Special Administrative Region),frozen,395
-2021,1,"Korea, Republic of",dried,1280
-2021,1,"Korea, Republic of",frozen,622
-2021,2,"China, People's Republic of",frozen,12870
-2021,2,"Korea, Republic of",dried,1278
-2021,3,"China, People's Republic of",frozen,78008
-2021,3,Hong Kong (Special Administrative Region),dried,176
-2021,3,"Korea, Republic of",dried,4168
-2021,3,"Korea, Republic of",frozen,5500
-2021,4,"China, People's Republic of",frozen,76718
-2021,4,"Korea, Republic of",dried,1893
-2021,4,"Korea, Republic of",frozen,1500
+2020,12,USA,other,18
+2021,1,China,frozen,100536
+2021,1,Hong Kong,frozen,395
+2021,1,South Korea,dried,1280
+2021,1,South Korea,frozen,622
+2021,2,Australia,dried,8
+2021,2,China,frozen,12870
+2021,2,South Korea,dried,1278
+2021,2,USA,other,10
+2021,3,Australia,other,15
+2021,3,China,frozen,78008
+2021,3,Hong Kong,dried,176
+2021,3,South Korea,dried,4168
+2021,3,South Korea,frozen,5500
+2021,3,USA,dried,50
+2021,4,China,frozen,76718
+2021,4,Japan,dried,85
+2021,4,South Korea,dried,1893
+2021,4,South Korea,frozen,1500
 2021,4,Taiwan,frozen,140
-2021,5,"China, People's Republic of",frozen,73996
-2021,5,Hong Kong (Special Administrative Region),frozen,1603
-2021,5,"Korea, Republic of",dried,1796
-2021,5,"Korea, Republic of",frozen,7342
+2021,5,China,frozen,73996
+2021,5,Hong Kong,frozen,1603
+2021,5,South Korea,dried,1796
+2021,5,South Korea,frozen,7342
 2021,5,Taiwan,frozen,2300
-2021,6,"China, People's Republic of",frozen,50199
-2021,6,"China, People's Republic of",other,2500
-2021,6,"Korea, Republic of",dried,1962
-2021,6,"Korea, Republic of",frozen,380
-2021,7,"China, People's Republic of",frozen,11646
-2021,7,"Korea, Republic of",dried,2167
-2021,7,"Korea, Republic of",frozen,500
-2021,8,"China, People's Republic of",frozen,3540
-2021,8,"Korea, Republic of",dried,1299
-2021,8,"Korea, Republic of",frozen,4378
-2021,9,"China, People's Republic of",frozen,6464
-2021,9,Hong Kong (Special Administrative Region),dried,90
-2021,10,"Korea, Republic of",frozen,3000
-2021,11,"China, People's Republic of",frozen,54223
-2021,11,"Korea, Republic of",dried,150
-2021,11,"Korea, Republic of",frozen,3000
+2021,6,China,frozen,50199
+2021,6,China,other,2500
+2021,6,South Korea,dried,1962
+2021,6,South Korea,frozen,380
+2021,7,China,frozen,11646
+2021,7,Japan,dried,85
+2021,7,South Korea,dried,2167
+2021,7,South Korea,frozen,500
+2021,8,China,frozen,3540
+2021,8,South Korea,dried,1299
+2021,8,South Korea,frozen,4378
+2021,8,USA,dried,62
+2021,9,Australia,dried,23
+2021,9,China,frozen,6464
+2021,9,Hong Kong,dried,90
+2021,10,South Korea,frozen,3000
+2021,11,China,frozen,54223
+2021,11,South Korea,dried,150
+2021,11,South Korea,frozen,3000
 2021,11,Taiwan,frozen,201
-2021,12,"China, People's Republic of",frozen,67217
-2021,12,Hong Kong (Special Administrative Region),dried,44
-2021,12,"Korea, Republic of",dried,5
-2021,12,"Korea, Republic of",frozen,14000
-2022,1,"China, People's Republic of",frozen,103970
-2022,1,"Korea, Republic of",dried,1097
-2022,1,"Korea, Republic of",frozen,13000
-2022,2,"China, People's Republic of",frozen,124048
-2022,2,"Korea, Republic of",dried,1301
-2022,2,"Korea, Republic of",frozen,1500
-2022,3,"China, People's Republic of",frozen,72329
-2022,3,"Korea, Republic of",dried,3605
-2022,3,"Korea, Republic of",frozen,2841
+2021,12,China,frozen,67217
+2021,12,Hong Kong,dried,44
+2021,12,Japan,dried,60
+2021,12,South Korea,dried,5
+2021,12,South Korea,frozen,14000
+2022,1,Australia,dried,7
+2022,1,China,frozen,103970
+2022,1,Japan,dried,178
+2022,1,South Korea,dried,1097
+2022,1,South Korea,frozen,13000
+2022,2,Australia,other,25
+2022,2,China,frozen,124048
+2022,2,South Korea,dried,1301
+2022,2,South Korea,frozen,1500
+2022,3,China,frozen,72329
+2022,3,South Korea,dried,3605
+2022,3,South Korea,frozen,2841
 2022,3,Taiwan,frozen,141
-2022,4,"China, People's Republic of",dried,4257
-2022,4,"China, People's Republic of",frozen,79543
-2022,4,"Korea, Republic of",dried,5879
-2022,4,"Korea, Republic of",frozen,6000
+2022,4,China,dried,4257
+2022,4,China,frozen,79543
+2022,4,South Korea,dried,5879
+2022,4,South Korea,frozen,6000
 2022,4,Taiwan,frozen,771
-2022,5,"China, People's Republic of",dried,22
-2022,5,"China, People's Republic of",frozen,30171
-2022,5,"Korea, Republic of",dried,4903
-2022,5,"Korea, Republic of",frozen,1279
+2022,5,China,dried,22
+2022,5,China,frozen,30171
+2022,5,South Korea,dried,4903
+2022,5,South Korea,frozen,1279
 2022,5,Taiwan,dried,897
-2022,6,"China, People's Republic of",frozen,32539
-2022,6,Hong Kong (Special Administrative Region),dried,95
-2022,6,Hong Kong (Special Administrative Region),frozen,1108
-2022,6,"Korea, Republic of",dried,4278
-2022,6,"Korea, Republic of",frozen,11991
-2022,7,"China, People's Republic of",frozen,30715
-2022,7,"Korea, Republic of",frozen,2000
-2022,8,"China, People's Republic of",frozen,11690
-2022,8,"Korea, Republic of",dried,4181
-2022,9,"China, People's Republic of",frozen,5137
-2022,9,Hong Kong (Special Administrative Region),dried,46
-2022,9,"Korea, Republic of",dried,3568
+2022,6,Australia,dried,22
+2022,6,China,frozen,32539
+2022,6,Hong Kong,dried,95
+2022,6,Hong Kong,frozen,1108
+2022,6,South Korea,dried,4278
+2022,6,South Korea,frozen,11991
+2022,6,USA,other,237
+2022,7,China,frozen,30715
+2022,7,South Korea,frozen,2000
+2022,8,China,frozen,11690
+2022,8,Japan,dried,372
+2022,8,South Korea,dried,4181
+2022,8,USA,dried,17
+2022,9,Australia,dried,44
+2022,9,China,frozen,5137
+2022,9,Hong Kong,dried,46
+2022,9,Japan,dried,350
+2022,9,South Korea,dried,3568
 2022,9,Taiwan,dried,173
-2022,10,Hong Kong (Special Administrative Region),frozen,6508
-2022,10,"Korea, Republic of",dried,2486
-2022,10,"Korea, Republic of",frozen,1519
-2022,10,"Korea, Republic of",other,1000
-2022,11,"China, People's Republic of",frozen,8570
-2022,11,Hong Kong (Special Administrative Region),dried,42
-2022,11,"Korea, Republic of",frozen,5000
-2022,11,Taiwan,frozen,125658
-2022,12,"China, People's Republic of",frozen,46410
-2022,12,"Korea, Republic of",frozen,17720
+2022,10,Hong Kong,frozen,6508
+2022,10,South Korea,dried,2486
+2022,10,South Korea,frozen,1519
+2022,10,South Korea,other,1000
+2022,10,USA,other,30
+2022,11,Australia,dried,6
+2022,11,China,frozen,8570
+2022,11,Hong Kong,dried,42
+2022,11,Japan,dried,100
+2022,11,South Korea,frozen,5000
+2022,11,USA,dried,25
+2022,12,China,frozen,46410
+2022,12,South Korea,frozen,17720
 2022,12,Taiwan,frozen,303
-2023,1,"China, People's Republic of",frozen,72553
-2023,1,"Korea, Republic of",dried,3593
-2023,1,"Korea, Republic of",frozen,10500
-2023,1,"Korea, Republic of",other,1000
-2023,2,"China, People's Republic of",frozen,78991
-2023,2,Hong Kong (Special Administrative Region),dried,95
-2023,2,"Korea, Republic of",dried,3447
-2023,2,"Korea, Republic of",frozen,28490
+2023,1,China,frozen,72553
+2023,1,South Korea,dried,3593
+2023,1,South Korea,frozen,10500
+2023,1,South Korea,other,1000
+2023,2,China,frozen,78991
+2023,2,Hong Kong,dried,95
+2023,2,Singapore,other,17
+2023,2,South Korea,dried,3447
+2023,2,South Korea,frozen,28490
 2023,2,Taiwan,dried,120
 2023,2,Taiwan,other,11
-2023,3,"China, People's Republic of",frozen,114667
-2023,3,Hong Kong (Special Administrative Region),dried,116
-2023,3,"Korea, Republic of",dried,6090
-2023,3,"Korea, Republic of",frozen,18000
+2023,3,China,frozen,114667
+2023,3,Hong Kong,dried,116
+2023,3,South Korea,dried,6090
+2023,3,South Korea,frozen,18000
 2023,3,Taiwan,dried,1056
 2023,3,Taiwan,frozen,521
-2023,4,"China, People's Republic of",frozen,129589
-2023,4,Hong Kong (Special Administrative Region),other,10
-2023,4,"Korea, Republic of",dried,4128
-2023,4,"Korea, Republic of",frozen,12775
-2023,4,"Korea, Republic of",other,1000
+2023,4,China,frozen,129589
+2023,4,Hong Kong,other,10
+2023,4,South Korea,dried,4128
+2023,4,South Korea,frozen,12775
+2023,4,South Korea,other,1000
 2023,4,Taiwan,frozen,1545
-2023,5,"China, People's Republic of",frozen,80083
-2023,5,Hong Kong (Special Administrative Region),frozen,1000
-2023,5,"Korea, Republic of",dried,4810
-2023,5,"Korea, Republic of",frozen,3293
-2023,6,"China, People's Republic of",frozen,4937
-2023,6,"Korea, Republic of",dried,4210
-2023,6,"Korea, Republic of",frozen,5000
+2023,5,China,frozen,80083
+2023,5,Hong Kong,frozen,1000
+2023,5,Japan,dried,181
+2023,5,South Korea,dried,4810
+2023,5,South Korea,frozen,3293
+2023,6,China,frozen,4937
+2023,6,South Korea,dried,4210
+2023,6,South Korea,frozen,5000
 2023,6,Taiwan,dried,349
-2023,7,"China, People's Republic of",frozen,7132
-2023,7,"Korea, Republic of",dried,4018
-2023,7,"Korea, Republic of",frozen,6362
-2023,8,"Korea, Republic of",dried,5709
-2023,8,"Korea, Republic of",frozen,500
+2023,7,Australia,dried,87
+2023,7,China,frozen,7132
+2023,7,South Korea,dried,4018
+2023,7,South Korea,frozen,6362
+2023,8,Singapore,dried,23
+2023,8,South Korea,dried,5709
+2023,8,South Korea,frozen,500
 2023,8,Taiwan,other,41
-2023,9,"Korea, Republic of",dried,4278
-2023,9,"Korea, Republic of",frozen,5079
-2023,10,"China, People's Republic of",frozen,3300
-2023,10,Hong Kong (Special Administrative Region),dried,1344
-2023,10,"Korea, Republic of",dried,1584
+2023,9,South Korea,dried,4278
+2023,9,South Korea,frozen,5079
+2023,9,USA,dried,100
+2023,10,Australia,other,6
+2023,10,China,frozen,3300
+2023,10,Hong Kong,dried,1344
+2023,10,South Korea,dried,1584
 2023,10,Taiwan,frozen,356
-2023,11,"China, People's Republic of",frozen,50150
-2023,11,Hong Kong (Special Administrative Region),dried,1831
-2023,11,"Korea, Republic of",dried,2435
-2023,11,"Korea, Republic of",frozen,300
-2023,12,"China, People's Republic of",frozen,170454
-2023,12,"Korea, Republic of",frozen,5321
-2024,1,"China, People's Republic of",frozen,73033
-2024,1,Hong Kong (Special Administrative Region),dried,908
-2024,1,"Korea, Republic of",dried,5640
-2024,1,"Korea, Republic of",frozen,1000
-2024,2,"China, People's Republic of",frozen,194263
-2024,2,"Korea, Republic of",dried,1185
-2024,2,"Korea, Republic of",frozen,13000
-2024,3,"China, People's Republic of",frozen,165970
-2024,3,Hong Kong (Special Administrative Region),dried,2015
-2024,3,"Korea, Republic of",dried,2073
-2024,3,"Korea, Republic of",frozen,2000
+2023,11,China,frozen,50150
+2023,11,Hong Kong,dried,1831
+2023,11,South Korea,dried,2435
+2023,11,South Korea,frozen,300
+2023,12,China,frozen,170454
+2023,12,South Korea,frozen,5321
+2024,1,China,frozen,73033
+2024,1,Hong Kong,dried,908
+2024,1,South Korea,dried,5640
+2024,1,South Korea,frozen,1000
+2024,2,Australia,dried,22
+2024,2,China,frozen,194263
+2024,2,Japan,dried,433
+2024,2,South Korea,dried,1185
+2024,2,South Korea,frozen,13000
+2024,2,USA,other,200
+2024,3,China,frozen,165970
+2024,3,Hong Kong,dried,2015
+2024,3,South Korea,dried,2073
+2024,3,South Korea,frozen,2000
 2024,3,Taiwan,dried,600
 2024,3,Taiwan,frozen,853
-2024,4,"China, People's Republic of",frozen,11238
-2024,4,Hong Kong (Special Administrative Region),dried,1121
-2024,4,"Korea, Republic of",dried,997
-2024,4,"Korea, Republic of",frozen,9096
+2024,4,Canada,dried,250
+2024,4,China,frozen,11238
+2024,4,Hong Kong,dried,1121
+2024,4,Japan,dried,101
+2024,4,South Korea,dried,997
+2024,4,South Korea,frozen,9096
 2024,4,Taiwan,frozen,330
-2024,5,Hong Kong (Special Administrative Region),dried,1198
-2024,5,"Korea, Republic of",dried,1972
-2024,5,"Korea, Republic of",frozen,4723
+2024,5,Hong Kong,dried,1198
+2024,5,South Korea,dried,1972
+2024,5,South Korea,frozen,4723
 2024,5,Taiwan,dried,172
-2024,6,"China, People's Republic of",frozen,5535
-2024,7,Hong Kong (Special Administrative Region),dried,3116
-2024,7,"Korea, Republic of",frozen,530
+2024,6,Australia,other,8
+2024,6,China,frozen,5535
+2024,7,Australia,dried,50
+2024,7,Hong Kong,dried,3116
+2024,7,South Korea,frozen,530
 2024,7,Taiwan,frozen,440
-2024,8,"Korea, Republic of",frozen,3002
+2024,7,USA,other,280
+2024,8,South Korea,frozen,3002
 2024,8,Taiwan,dried,5
-2024,9,Hong Kong (Special Administrative Region),dried,1204
-2024,10,Hong Kong (Special Administrative Region),dried,1496
-2024,10,"Korea, Republic of",dried,1000
-2024,11,Hong Kong (Special Administrative Region),dried,1338
-2024,11,"Korea, Republic of",frozen,5440
-2024,12,"China, People's Republic of",frozen,138258
-2024,12,Hong Kong (Special Administrative Region),dried,3391
-2024,12,"Korea, Republic of",frozen,19941
-2025,1,"China, People's Republic of",frozen,29257
-2025,1,Hong Kong (Special Administrative Region),dried,35
-2025,1,Hong Kong (Special Administrative Region),frozen,187
-2025,1,"Korea, Republic of",frozen,6026
-2025,2,"China, People's Republic of",frozen,194109
-2025,2,"Korea, Republic of",dried,323
-2025,2,"Korea, Republic of",frozen,33174
+2024,9,Hong Kong,dried,1204
+2024,10,Hong Kong,dried,1496
+2024,10,South Korea,dried,1000
+2024,11,Hong Kong,dried,1338
+2024,11,Japan,dried,221
+2024,11,South Korea,frozen,5440
+2024,12,Australia,dried,25
+2024,12,China,frozen,138258
+2024,12,Hong Kong,dried,3391
+2024,12,South Korea,frozen,19941
+2025,1,China,frozen,29257
+2025,1,Hong Kong,dried,35
+2025,1,Hong Kong,frozen,187
+2025,1,South Korea,frozen,6026
+2025,2,China,frozen,194109
+2025,2,Singapore,dried,40
+2025,2,South Korea,dried,323
+2025,2,South Korea,frozen,33174
 2025,2,Taiwan,dried,600
 2025,2,Taiwan,frozen,536
-2025,3,"China, People's Republic of",frozen,197825
-2025,3,"Korea, Republic of",dried,1454
-2025,3,"Korea, Republic of",frozen,6565
+2025,2,USA,dried,70
+2025,3,China,frozen,197825
+2025,3,Japan,dried,100
+2025,3,South Korea,dried,1454
+2025,3,South Korea,frozen,6565
 2025,3,Taiwan,dried,317
 2025,3,Taiwan,frozen,286
-2025,4,"China, People's Republic of",dried,132
-2025,4,"China, People's Republic of",frozen,163758
-2025,4,Hong Kong (Special Administrative Region),dried,1794
-2025,4,"Korea, Republic of",dried,1024
-2025,4,"Korea, Republic of",frozen,8196
+2025,4,China,dried,132
+2025,4,China,frozen,163758
+2025,4,Hong Kong,dried,1794
+2025,4,South Korea,dried,1024
+2025,4,South Korea,frozen,8196
 2025,4,Taiwan,dried,137
 2025,4,Taiwan,frozen,450
-2025,5,"China, People's Republic of",frozen,99309
-2025,5,"Korea, Republic of",frozen,1400
+2025,5,China,frozen,99309
+2025,5,Israel,dried,20
+2025,5,South Korea,frozen,1400
 2025,5,Taiwan,dried,78
 2025,5,Taiwan,frozen,349
-2025,6,"China, People's Republic of",frozen,79449
-2025,6,Hong Kong (Special Administrative Region),dried,12
-2025,6,"Korea, Republic of",frozen,6994
-2025,8,"Korea, Republic of",dried,1864
-2025,9,"Korea, Republic of",dried,3647
-2025,9,"Korea, Republic of",frozen,3204
+2025,6,China,frozen,79449
+2025,6,Hong Kong,dried,12
+2025,6,South Korea,frozen,6994
+2025,7,Japan,dried,40
+2025,8,South Korea,dried,1864
+2025,9,South Korea,dried,3647
+2025,9,South Korea,frozen,3204
 2025,9,Taiwan,dried,18
-2025,10,"China, People's Republic of",frozen,1620
-2025,11,"China, People's Republic of",frozen,19942
-2025,11,Hong Kong (Special Administrative Region),dried,1438
-2025,11,"Korea, Republic of",frozen,500
+2025,9,USA,other,24
+2025,10,China,frozen,1620
+2025,10,USA,other,250
+2025,11,China,frozen,19942
+2025,11,Hong Kong,dried,1438
+2025,11,South Korea,frozen,500
 2025,11,Taiwan,frozen,355
-2025,12,"China, People's Republic of",frozen,113815
-2025,12,"Korea, Republic of",frozen,10994
-2026,1,"China, People's Republic of",frozen,154383
-2026,1,"Korea, Republic of",frozen,3021
-2026,2,"China, People's Republic of",frozen,122563
-2026,2,Hong Kong (Special Administrative Region),dried,35
-2026,2,"Korea, Republic of",frozen,5028
+2025,12,China,frozen,113815
+2025,12,South Korea,frozen,10994
+2026,1,China,frozen,154383
+2026,1,South Korea,frozen,3021
+2026,2,China,frozen,122563
+2026,2,Hong Kong,dried,35
+2026,2,Japan,dried,201
+2026,2,South Korea,frozen,5028
 2026,2,Taiwan,frozen,400
-2026,3,"China, People's Republic of",frozen,168050
-2026,3,"Korea, Republic of",dried,924
-2026,3,"Korea, Republic of",frozen,5500
+2026,3,China,frozen,168050
+2026,3,South Korea,dried,924
+2026,3,South Korea,frozen,5500
 2026,3,Taiwan,frozen,526
-2026,4,"China, People's Republic of",frozen,107400
-2026,4,"Korea, Republic of",dried,770
-2026,4,"Korea, Republic of",frozen,3082
-2026,5,"China, People's Republic of",frozen,186760
-2026,5,Hong Kong (Special Administrative Region),dried,2076
-2026,5,"Korea, Republic of",dried,968
-2026,5,"Korea, Republic of",frozen,3051
+2026,4,China,frozen,107400
+2026,4,South Korea,dried,770
+2026,4,South Korea,frozen,3082
+2026,5,China,frozen,186293
+2026,5,Hong Kong,dried,2076
+2026,5,South Korea,dried,968
+2026,5,South Korea,frozen,3051
+2026,6,China,frozen,19138
+2026,6,Hong Kong,dried,135
+2026,6,South Korea,dried,991
+2026,6,South Korea,frozen,7171
+2026,6,Taiwan,frozen,229
